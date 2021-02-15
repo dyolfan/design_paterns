@@ -1,4 +1,4 @@
-package openclose;
+package principles.openclose;
 
 public class Product {
     public String name;

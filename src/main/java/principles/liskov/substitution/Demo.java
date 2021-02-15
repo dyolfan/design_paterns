@@ -1,4 +1,4 @@
-package liskov.substitution;
+package principles.liskov.substitution;
 
 public class Demo {
     static void useIt(Rectangle rectangle) {

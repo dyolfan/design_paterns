@@ -1,4 +1,4 @@
-package liskov.substitution;
+package principles.liskov.substitution;
 
 public class ShapeFactory {
     public static Rectangle newRectangle(int width, int height) {

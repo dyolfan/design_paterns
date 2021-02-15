@@ -1,4 +1,4 @@
-package liskov.substitution;
+package principles.liskov.substitution;
 
 public class Square extends Rectangle {
     public Square() {

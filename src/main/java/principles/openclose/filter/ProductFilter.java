@@ -1,9 +1,9 @@
-package openclose.filter;
+package principles.openclose.filter;
 
 import java.util.List;
 import java.util.stream.Stream;
 
-import openclose.Product;
+import principles.openclose.Product;
 
 public class ProductFilter implements Filter<Product> {
 

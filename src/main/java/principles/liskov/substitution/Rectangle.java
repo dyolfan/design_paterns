@@ -1,4 +1,4 @@
-package liskov.substitution;
+package principles.liskov.substitution;
 
 public class Rectangle {
     protected int width, height;

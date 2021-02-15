@@ -1,7 +1,7 @@
-package openclose.filter;
+package principles.openclose.filter;
 
-import openclose.Color;
-import openclose.Product;
+import principles.openclose.Color;
+import principles.openclose.Product;
 
 public class ColorSpecification implements Specification<Product> {
     private Color color;

@@ -1,4 +1,4 @@
-package openclose.filter;
+package principles.openclose.filter;
 
 import java.util.Arrays;
 

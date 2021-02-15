@@ -1,7 +1,7 @@
-package openclose.filter;
+package principles.openclose.filter;
 
-import openclose.Product;
-import openclose.Size;
+import principles.openclose.Product;
+import principles.openclose.Size;
 
 public class SizeSpecification implements Specification<Product> {
     private Size size;

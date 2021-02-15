@@ -1,11 +1,11 @@
-package openclose;
+package principles.openclose;
 
 import java.util.List;
 
-import openclose.filter.AndSpecification;
-import openclose.filter.ColorSpecification;
-import openclose.filter.ProductFilter;
-import openclose.filter.SizeSpecification;
+import principles.openclose.filter.AndSpecification;
+import principles.openclose.filter.ColorSpecification;
+import principles.openclose.filter.ProductFilter;
+import principles.openclose.filter.SizeSpecification;
 
 public class OpenClose {
     public static void main(String... args) {

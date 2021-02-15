@@ -1,4 +1,4 @@
-package openclose;
+package principles.openclose;
 
 public enum Size {
     SMALL,

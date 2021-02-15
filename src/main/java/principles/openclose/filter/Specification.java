@@ -1,4 +1,4 @@
-package openclose.filter;
+package principles.openclose.filter;
 
 public interface Specification<T> {
     boolean isSatisfied(T item);
