@@ -1,6 +1,6 @@
 package principles.openclose;
 
-public class Product {
+class Product {
     public String name;
     public Color color;
     public Size size;

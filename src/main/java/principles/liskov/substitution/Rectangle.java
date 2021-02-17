@@ -1,6 +1,6 @@
 package principles.liskov.substitution;
 
-public class Rectangle {
+class Rectangle {
     protected int width, height;
 
     public Rectangle() {

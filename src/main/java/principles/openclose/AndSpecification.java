@@ -1,8 +1,8 @@
-package principles.openclose.filter;
+package principles.openclose;
 
 import java.util.Arrays;
 
-public class AndSpecification<T> implements Specification<T> {
+class AndSpecification<T> implements Specification<T> {
     private Specification<T>[] specifications;
 
     public AndSpecification(Specification<T>... specifications) {

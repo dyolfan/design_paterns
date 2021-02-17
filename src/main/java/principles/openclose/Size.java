@@ -1,6 +1,6 @@
 package principles.openclose;
 
-public enum Size {
+enum Size {
     SMALL,
     MEDIUM,
     BIG

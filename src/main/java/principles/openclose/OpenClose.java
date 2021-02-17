@@ -2,12 +2,7 @@ package principles.openclose;
 
 import java.util.List;
 
-import principles.openclose.filter.AndSpecification;
-import principles.openclose.filter.ColorSpecification;
-import principles.openclose.filter.ProductFilter;
-import principles.openclose.filter.SizeSpecification;
-
-public class OpenClose {
+class OpenClose {
     public static void main(String... args) {
         Product apple = new Product("Apple", Color.GREEN, Size.SMALL);
         Product cherry = new Product("Cherry", Color.RED, Size.SMALL);

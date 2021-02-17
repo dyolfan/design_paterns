@@ -1,6 +1,6 @@
 package principles.liskov.substitution;
 
-public class ShapeFactory {
+class ShapeFactory {
     public static Rectangle newRectangle(int width, int height) {
         return new Rectangle(width, height);
     }

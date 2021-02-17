@@ -1,6 +1,6 @@
 package principles.liskov.substitution;
 
-public class Demo {
+class Demo {
     static void useIt(Rectangle rectangle) {
         int width = rectangle.getWidth();
         rectangle.setHeight(10);

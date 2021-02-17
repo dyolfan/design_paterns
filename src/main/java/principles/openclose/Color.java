@@ -1,6 +1,6 @@
 package principles.openclose;
 
-public enum Color {
+enum Color {
     RED,
     GREEN,
     BLUE
